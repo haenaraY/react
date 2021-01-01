@@ -31,6 +31,7 @@ class Script extends React.Component {
                     <Loading />
                 ):(
                     <div id="scriptCont">
+                    <div className="container">
                     <Title text={['Script','Coding','Script Coding']} />
                     <div class="listBox">
                 <div className="para cont1">
@@ -57,6 +58,7 @@ class Script extends React.Component {
                         <p className="hide">View more</p>
                     </figcaption>
                 </div>
+            </div>
             </div>
             </div>
                 )}

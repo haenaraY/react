@@ -28,8 +28,10 @@ class Reference extends React.Component {
                     <Loading />
                 ):(
                     <div id="referCont">
+                         <div className="container">
                     <Title text={['Reference','','Reference']} />
                     <p>준비중입니다.</p>
+                    </div>
                    </div>
                 )}
             </div>
