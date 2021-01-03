@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.77d36c18.chunk.css",
+    "main.js": "/react/static/js/main.c251eef7.chunk.js",
+    "main.js.map": "/react/static/js/main.c251eef7.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.41d8f8fb.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.41d8f8fb.js.map",
+    "static/js/2.7d3e5c22.chunk.js": "/react/static/js/2.7d3e5c22.chunk.js",
+    "static/js/2.7d3e5c22.chunk.js.map": "/react/static/js/2.7d3e5c22.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/main.77d36c18.chunk.css.map": "/react/static/css/main.77d36c18.chunk.css.map",
+    "static/js/2.7d3e5c22.chunk.js.LICENSE.txt": "/react/static/js/2.7d3e5c22.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/react/static/media/made_mirage_thin_personal_use-webfont.18cbf507.woff",
+    "static/media/main_1.48c1131f.jpg": "/react/static/media/main_1.48c1131f.jpg",
+    "static/media/main_2.7b6c6f76.jpg": "/react/static/media/main_2.7b6c6f76.jpg",
+    "static/media/main_3.be5b9401.jpg": "/react/static/media/main_3.be5b9401.jpg",
+    "static/media/parallax1.fe95f204.jpg": "/react/static/media/parallax1.fe95f204.jpg",
+    "static/media/parallax2.439edb86.jpg": "/react/static/media/parallax2.439edb86.jpg",
+    "static/media/parallax3.4beea6f3.jpg": "/react/static/media/parallax3.4beea6f3.jpg",
+    "static/media/port02.d06dff3b.jpg": "/react/static/media/port02.d06dff3b.jpg",
+    "static/media/port03.dc0105bd.jpg": "/react/static/media/port03.dc0105bd.jpg",
+    "static/media/port04.467fcddf.jpg": "/react/static/media/port04.467fcddf.jpg",
+    "static/media/port05.346e45e3.jpg": "/react/static/media/port05.346e45e3.jpg",
+    "static/media/port1.bf7ed880.jpg": "/react/static/media/port1.bf7ed880.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41d8f8fb.js",
+    "static/js/2.7d3e5c22.chunk.js",
+    "static/css/main.77d36c18.chunk.css",
+    "static/js/main.c251eef7.chunk.js"
+  ]
+}
