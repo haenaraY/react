@@ -9,11 +9,6 @@ function Header({color}){
         <div className="logo"><Link to="/">YOON</Link></div>
         <nav className="nav">
             <ul>
-                <li><Link to="signup.html">회원가입</Link></li>
-                <li><Link to="login.html">로그인</Link></li>
-                <li><Link to="board.html">게시판</Link></li>
-            </ul>
-            <ul>
             <li><Link to="/about">About</Link></li>
                 <li><Link to="/script">Script</Link></li>
                 <li><Link to="/Reference">Reference</Link></li>
